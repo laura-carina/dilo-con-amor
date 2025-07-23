@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <title>Dilo con amor</title>
-  <link rel="icon" href="favicon-16x16.jpeg" type="image/jpeg">
+  <link rel="icon" href="99.jpeg" type="image/jpeg">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <style>
     :root {
@@ -185,7 +185,7 @@
 <body>
   <header>
     <h1>Dilo con amor</h1>
-    <img src="dana.jpeg" alt="Logo" class="foto-personal">
+    <img src="80.jpeg" alt="Logo" class="foto-personal">
   </header>
 
   <nav>
